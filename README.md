@@ -1,2 +1,2 @@
 # titanic-eda-modelling
-EDA, modeling, and dashboard on public bike-share data
+EDA and modeling performed on Titanic dataset at https://www.kaggle.com/competitions/titanic
